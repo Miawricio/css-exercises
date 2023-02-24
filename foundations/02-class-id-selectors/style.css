@@ -1,0 +1,19 @@
+.odd {
+    color: rgb(255, 167, 167);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.sec {
+    color: blue;
+    font-size: 36px;
+}
+
+#font_adjust {
+    font-size: 25px;
+}
+
+#corr {
+    color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
