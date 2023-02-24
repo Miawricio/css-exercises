@@ -1,0 +1,13 @@
+.yclick {
+    background-color: black;
+}
+
+.nclick {
+    background-color: yellow;
+}
+
+.nclick,
+.yclick {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
